@@ -7,5 +7,5 @@
 
 [[redirects]]
   from = "/"
-  to = "/cv.html"
+  to = "/public/cv.html"
   status = 200
